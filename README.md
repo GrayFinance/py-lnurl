@@ -2,7 +2,7 @@
 
 ## How Install?
 ```bash
-pip3 install https://github.com/GrayFinance/py-lnurl.git
+pip3 install -U git+https://github.com/GrayFinance/py-lnurl.git
 ```
 
 ## How usage?
